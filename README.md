@@ -5,6 +5,10 @@ Simple MVP android application design pattern sample.
 The google todo-mvp project based.  
 https://github.com/googlesamples/android-architecture/tree/todo-mvp
 
+## Summary
+저에게 가장 잘 맞는 심플한 디자인 패턴을 만들기 위해 작성되었습니다.  
+이 프로젝트는 다양한 프로젝트에 적용하기 위한 다형성을 목적으로 하여 주기적으로 최신화 됩니다.
+
 ## License
 ```
 Copyright 2017 Oh, Su-cheol <ogoons@hanmail.net>
