@@ -1,7 +1,8 @@
 # SimpleMVP
 Simple MVP android application design pattern sample.
 
-The google todo-mvp project based.
+
+The google todo-mvp project based.  
 https://github.com/googlesamples/android-architecture/tree/todo-mvp
 
 ## License
