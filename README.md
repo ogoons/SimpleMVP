@@ -1,5 +1,5 @@
 # SimpleMVP
-Android Simple MVP Sample
+Simple MVP android application design pattern sample.
 
 ## License
 ```
