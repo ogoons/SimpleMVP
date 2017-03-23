@@ -9,13 +9,13 @@ import com.ogoons.simplemvp.base.BaseView;
 
 public class MainContract {
 
-    interface View extends BaseView<Presenter> {
+    public interface View extends BaseView<Presenter> {
 
         void showToast(String text);
 
     }
 
-    interface Presenter extends BasePresenter {
+    public interface Presenter extends BasePresenter {
 
         void loadData();
 
