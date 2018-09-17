@@ -1,4 +1,4 @@
-# SimpleMVP
+# simple-mvp
 Simple MVP android application design pattern sample.
 
 
